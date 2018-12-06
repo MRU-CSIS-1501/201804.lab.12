@@ -28,4 +28,3 @@ There are numerous sites out there where you can hone your programming skills fo
 
 - https://exercism.io/ 
 - https://www.codewars.com (by the Qualified folks...don't hold that against 'em!)
-- 
